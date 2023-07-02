@@ -1,0 +1,43 @@
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+.w3-button {
+    color: #4d4dff;
+    font-weight: bold;
+}
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/bg.jpg");
+  min-height: 100%;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+#mySidebar {
+  margin-top: -100px;
+}
+a{
+  text-decoration: none;
+}
+footer h4{
+  color :#4d4dff;
+  font-weight: bold;
+}
+.myButton{
+  width:100%;
+  border : none;
+  padding:5px
+}
+.myButton:hover{
+  color: white;
+  cursor : pointer;
+  font-weight: bold;
+  background: #4d4dff;
+}
